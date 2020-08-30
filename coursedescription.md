@@ -21,8 +21,8 @@ You will work in the terminal and make simple shell scripts. We will have exerci
 
 ## Lectures
 
- * Mondays at 09-11
- * Fridays at 09-11
+ * Mondays at 10-12
+ * Fridays at 10-12
 
 All lectures will be online
 
