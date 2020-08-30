@@ -45,10 +45,7 @@ The exercises will be partly online and partly held at KU. Each week there will 
  * Lasse Grønborg
 
 ### Room
- DIKU old bib
-
- * Hold 1 will have physical exercises on even week numbers (first time Sep 1)
- * Hold 2 will have physical exercises on odd week numbers (first time Sep 8)
+DIKU old bib (3-0-14)
 
 ## Teaching Material
 
