@@ -44,12 +44,11 @@ The exercises will be partly online and partly held at KU. Each week there will 
  * Ole-Christian Galbo Engstrøm
  * Lasse Grønborg
 
-### Rooms
-Not allocated yet
-<!-- * Hold 1: DIKU 1-0-04
-* Hold 2: DIKU 1-0-14
-* Hold 3: DIKU 1-0-37
- -->
+### Room
+ DIKU old bib
+
+ * Hold 1 will have physical exercises on even week numbers (first time Sep 1)
+ * Hold 2 will have physical exercises on odd week numbers (first time Sep 8)
 
 ## Teaching Material
 
