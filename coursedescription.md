@@ -61,8 +61,8 @@ There are 6 weekly assignment during the course.
 |                  | Deadline          |
 | ---------------- | ----------------- |
 | Assignment 1     | 12 Sep @ 16:00    |
-| Assignment 2     | 18 Sep @ 16:00    |
-| Assignment 3     | 25 Sep @ 16:00    |
+| Assignment 2     | 19 Sep @ 16:00    |
+| Assignment 3     | 26 Sep @ 16:00    |
 | Assignment 4     | 03 Oct @ 16:00    |
 | Assignment 5     | 10 Oct @ 16:00    |
 | Assignment 6     | 24 Oct @ 16:00    |
