@@ -69,7 +69,7 @@ There are 6 weekly assignment during the course.
 
 The assignments will be pass/fail; expect to have at least 66 % of an assignment correct to get a pass. It will be possible to re-handin one (and only one) assigment (1-4); deadline 19 Oct @ 10:00AM.
 
-All assignments are individual. That means that you can discuss relating material and solutions with fellow students, TAs and lectures (it is actually encouraged), but you have to write up your own solution to the problems. You are under no circumstances allowed to share your written solutions with fellow students.
+All assignment will be in groups up to 3 persons. That means that you can discuss relating material and solutions with fellow students (outside the group), TAs and lectures (it is actually encouraged), but your group have to write up your own solution to the problems. You are under no circumstances allowed to share your written solutions with fellow students outside the group.
 
 ### Feedback
 Short written feedback to assignments will be given by TAs on the course. It will be given before the following exercise session, where you have the possibility to discuss with your TA. Feedback will focus on what could be approved in the assignment. The feedback may thus be useful for later assignments or the re-handin. Feedback will not give a direct justification of the evaluation (pass/fail).
