@@ -60,14 +60,14 @@ There are 6 weekly assignment during the course.
 
 |                  | Deadline          |
 | ---------------- | ----------------- |
-| Assignment 1     | 12 Sep @ 16:00    |
-| Assignment 2     | 19 Sep @ 16:00    |
-| Assignment 3     | 26 Sep @ 16:00    |
-| Assignment 4     | 03 Oct @ 16:00    |
-| Assignment 5     | 10 Oct @ 16:00    |
+| Assignment 1     | 13 Sep @ 16:00    |
+| Assignment 2     | 20 Sep @ 16:00    |
+| Assignment 3     | 27 Sep @ 16:00    |
+| Assignment 4     | 04 Oct @ 16:00    |
+| Assignment 5     | 11 Oct @ 16:00    |
 | Assignment 6     | 24 Oct @ 16:00    |
 
-The assignments will be pass/fail; expect to have at least 66 % of an assignment correct to get a pass. It will be possible to re-handin one (and only one) assigment (1-4); deadline 19 Oct @ 10:00AM.
+The assignments will be pass/fail; expect to have at least 66 % of an assignment correct to get a pass. It will be possible to re-handin one (and only one) assigment (1-4); deadline 18 Oct @ 16:00.
 
 All assignment will be in groups up to 3 persons. That means that you can discuss relating material and solutions with fellow students (outside the group), TAs and lectures (it is actually encouraged), but your group have to write up your own solution to the problems. You are under no circumstances allowed to share your written solutions with fellow students outside the group.
 
